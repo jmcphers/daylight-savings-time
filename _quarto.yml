@@ -2,16 +2,21 @@ project:
   type: book
 
 book:
-  title: "daylight-savings-time"
-  author: "Norah Jones"
+  title: "Daylight Savings Time"
+  author: "Beatrice McPherson"
   date: "9/14/2024"
   chapters:
     - index.qmd
     - 01.qmd
+    - 02.qmd
+    - 03.qmd
+    - 04.qmd
+    - 05.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: litera
+    number-sections: false
   pdf:
     documentclass: scrreprt
 
