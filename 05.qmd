@@ -1,6 +1,4 @@
----
-title: "5"
----
+# 5 {#sec-05}
 
 You start to sprint down the street. You don’t trust the spaceship. It seems…ominous. You’d really like to get away from it and on with your day, but as you run down the road, suddenly a bright chartreuse light shines above you and you stop making forward progress, instead slowly rising into the air!
 
@@ -15,5 +13,5 @@ The alien spheres, as a group, bob closer and closer as they approach you. What 
 
 If you try to talk to them and be friendly, turn to section 48.
 
-If you scream, turn to section 11.
+If you scream, turn to @sec-11
  
