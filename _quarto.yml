@@ -12,6 +12,12 @@ book:
     - 03.qmd
     - 04.qmd
     - 05.qmd
+    - 06.qmd
+    - 07.qmd
+    - 08.qmd
+    - 09.qmd
+  sidebar: false
+  navbar: false
 
 format:
   html:
