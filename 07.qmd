@@ -1,6 +1,4 @@
----
-title: "7"
----
+# 7 {#sec-07}
 
 You decide to take the armor. It might come in handy, especially as you don’t know what lies ahead of you on the steep mountain path. Laboriously, as the armor is rather slippery and hard to get a grip on, you pick it up and put it on. It takes you a while to figure out how to detach the helmet from the body of the suit, but you manage (it has to be twisted off, like a bottle cap). You decide not to put on the metal gloves, reasoning that any unlikely hand injuries you might sustain are less important than your current dexterity. 
 
@@ -44,6 +42,6 @@ You don’t really trust the skull, but you also don’t see any other options.
 
 If you jump off alone, leaving the skull here, turn to section 8.
 
-If you jump, but take the skull, turn to section 20.
+If you jump, but take the skull, turn to @sec-20.
 
-If you stay here and die, turn to section 27.
+If you stay here and die, turn to @sec-27.

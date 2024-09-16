@@ -1,0 +1,14 @@
+# 31 {#sec-31}
+
+31
+You decide to go explore the mountains. You set out on the slightly worn (you can tell that at least a few people have traversed its length in the past year, but not many. You wonder why the trail was created, and by whom. There don’t seem to be many, if any, inhabitants of this strange land you find yourself in, and anyways going up a mountain doesn’t seem to have many commercial benefits. Perhaps they just liked the view.) path. It’s easy walking at first, but after a mile or so you reach the mountain, and the climbing gets more difficult due to the incline. As you suspected, it turns around the mountain, cutting a path into the side. 
+There’s a drop-off on your right-hand side at all times that gets increasingly scarier and more dangerous as you journey up the mountain. There’s a good-sized area of craggy rock between you and a flailing death, but still, it’s rather terrifying. You make sure to keep close to the side of the mountain. 
+As you walk miles and miles in spirals around the mountain, you begin to spot scattered bushes where before there had been only a sparse tuft of grass for vegetation, and the path seems to have been carved deeper here into the mountain. You look around at the soaring, circling grey clouds and consider the interesting climate of this strange place, then continue to walk on. You think you’ll try to make it to the top of the mountain. 
+You come to a fork in the road—the path has now grown wide enough to accommodate such a thing—and stare at it for a while. What should you do?
+
+If you go to the left, turn to @sec-23
+
+If you go to the right, turn to @sec-29
+
+If you pick up the fork, turn to section 47.
+ 

@@ -12,7 +12,7 @@ Once you’re ready, you scrape some lichen off the side of the mountain as a br
 
 As you’re walking up the trail, you come upon a curiously shiny set of silvery armor, collapsed on the ground as if someone were walking there, wearing it, and disintegrated on the spot, leaving the armor behind. You eye it suspiciously. It might be useful, but it also might just weigh you down.
 
-If you pick up the armor, turn to section 7.
+If you pick up the armor, turn to @sec-07.
 
 If you leave it there, turn to section 49.
  
