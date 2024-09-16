@@ -12,5 +12,5 @@ You consider his offer, slightly unsettled by the sudden change in the man.
 
 If you agree, turn to @sec-17
 
-If you punch him, turn to section 51.
+If you punch him, turn to @sec-51.
  

@@ -6,7 +6,7 @@ You run awkwardly down the street, careful not to let your shoes slip off your f
 Suddenly, you are facedown on the pavement of the road, staring into the sewer. You rise, groaning, to your knees, inwardly cursing your awful dress shoes and your decision to wear them. But wait—what’s that in the sewer? You see a strange, intriguing green glow. It flickers and dims, then grows brighter again. It’s probably normal.
 You’re curious, but you really have to get to your important event. What should you do?
 
-If you examine the sewer, turn to section 21.
+If you examine the sewer, turn to @sec-21.
 
 If you continue to the event, turn to section 62.
  

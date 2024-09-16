@@ -1,0 +1,33 @@
+# 45 {#sec-45}
+
+You decide to explore the cave. 
+
+You walk over to the grassy knoll in which the entrance to the cave is enclosed and enter.
+
+It smells damp, and there’s a loud, constant drip-drip-dripping sound coming from somewhere you can’t see. 
+
+Stalactites hang precariously from the ceiling and you almost hit your head on one as you step inside. A cauldron of bats flies frantically out of the cave and you duck. 
+
+You continue into the cave. Your footfalls echo in the enclosed space and the floor feels smooth and cool under your bare feet. The cave is almost, but not quite, pitch black. There’s light coming from the entrance still, as you haven’t progressed enough to completely leave its light and relative safety behind. There also seems to be light coming from somewhere up ahead, but you can’t tell what. 
+
+The cave narrows considerably, then widens again, leading into another chamber, this one full of stalagmites but lacking stalactites. You weave around them as you make your way forward, daylight almost completely left behind. 
+
+The next chamber has both stalagmites and stalactites. You aren’t sure, but there appears to be a pair of luminous yellow eyes staring at you from a corner. It’s most likely some harmless cave creature, but you avoid that part of the chamber nonetheless. 
+
+You stare into the cave hallway that leads to the next chamber. Red light shines softly from the room. You enter.
+
+The red light, as it turns out, is coming from a river of magma. It simmers and bubbles, the red glow now seeming ominous and disturbing. You can feel the heat radiating off of it, and wonder why and how it’s there, as you didn’t see a volcano or any other viable source of magma. You’re starting to think that the laws or reality might not fully apply to the strange place you’ve found yourself in.
+
+There are thin, porous rocks floating on top of the magma. You theorize that the top of the slow-moving magma had time to cool, forming a rocky skin over the river that has since broken apart. There’s quite a few of these rocks, but not enough to jump across them over the river. It’s also not certain that they would hold your weight. 
+
+Against the wall of the chamber leans an extremely tall rod of indeterminate material. You go over and pick it up, finding it light, and flexible. The end is pointed.
+
+The only way out of this cavern of the cave, besides the way you came in, is a small, dark cave-hallway across the river of blisteringly hot magma.
+
+You could possibly get over the river by making a raft out of the rocks floating on it. You could use the rod to grab them and drag them over to the side of the river, then propel yourself across by pushing off the other floating rocks with the rod.
+
+The river isn’t very wide—you could also try to climb up to a nearby ledge and swing over it to the convenient ledge opposite using the pole. Both plans are risky, but they just might work
+
+If you try to build a raft, turn to @sec-28.
+
+If you attempt to jump over the magma, turn to @sec-40.

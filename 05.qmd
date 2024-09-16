@@ -11,7 +11,7 @@ As you take in your surroundings, there comes a pneumatic hiss and the door lift
 
 The alien spheres, as a group, bob closer and closer as they approach you. What should you do? 
 
-If you try to talk to them and be friendly, turn to section 48.
+If you try to talk to them and be friendly, turn to @sec-48.
 
 If you scream, turn to @sec-11
  

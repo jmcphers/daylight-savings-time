@@ -1,0 +1,34 @@
+# 42 {#sec-42}
+
+You decide to try to talk to the creature, whatever it may be. You reason that it may be one of the animals, like bears or gorillas, which sees eye contact as aggressive or threatening and may kill you. That would not be pleasant!
+
+You scoot your face closer to the sewer grate, scraping your face on the rough street. 
+
+“H-Hello?” you say, although it sounds more like a question as you wonder what the consequence of your words may be. Perhaps whatever lies within the sewer will kill you. Perhaps it will be friendly. You try to convince yourself that it is friendly, or at least not actively out to murder you. 
+
+You get no response, so you tentatively speak again.
+
+Stammering slightly, you venture another “H-hello?” and wait an excruciating minute. Suddenly, the eyes rise rapidly, showing that they are in fact attached to eyestalks, like you would find on a snail or a crab. The creature, or being, or whatever it is continues to ascend what must be a ladder (or maybe it can levitate? You don’t know) hidden deep down in the sewers of your suburb. 
+
+When it is wholly revealed, it is evident to you that it is some sort of slime creature, perhaps related to Jell-O. Its eyes, as previously said, are large and spherical, held up by eyestalks. They possess a moonlike luminosity. The slime’s body is light lime green, and you wonder what would happen if it accidentally wandered into a Bundt pan at a party. 
+
+Its entire body glows with a slimy bioluminescence, producing the green glow that first enticed you to investigate the sewer.
+
+To your astonishment, it begins to speak! Its voice is high and bubbly, like holding an enthusiastically effervescent drink up to your ear and listening to it cheerfully fizz away in its aluminum prison as it speaks to you, saying in a surprisingly chipper voice, “Greetment, human!” 
+
+You are extremely surprised, not sure if this is an alien greeting or if it simply does not have a full understanding of the English language, you reply in a voice that is almost a full octave higher than it would normally be, “Greetment!” 
+
+The slime looks pleased, and you suppose that you’ve done the right thing in deciding to converse with it. It seems to be enjoying the talk.
+
+“You play the… er—the strummer, human?” it asks you after a moment of slightly awkward polite silence. You guess that a ‘strummer,’ as the slime says, is a guitar. Of course, it could also be a ukulele, but it’s most likely guitar. You do, in fact, play the guitar, and you tell the slime so.
+
+“Superrrrrrrrrrb!” it bubbles happily, rolling its r’s. “How much of coincidence!” It pauses again, then says, almost shyly, “Human… want to strum, with band?” 
+
+You are taken aback, surmising correctly that it would like you to play guitar in a band. It says, in a cautious sort of voice, “’tis nomered the Debugged Pelican…” 
+
+Should you join the slime’s band?
+
+If you decide to join the band, turn to @sec-18.
+
+If you decide not to, turn to section @sec-54.
+

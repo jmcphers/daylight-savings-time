@@ -14,5 +14,5 @@ The aliens continue to scream.
 
 If you keep screaming, turn to @sec-03
 
-If you stop, turn to section 58.
+If you stop, turn to section @sec-58.
  

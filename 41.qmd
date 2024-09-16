@@ -1,0 +1,28 @@
+# 41 {#sec-41}
+
+You decide to rely on your old friend Dr. Kartoffel. His medical license is barely expired, anyways. You grab your nose from the freezer and start driving to his place of work.
+
+
+You step into his dilapidated office and stare at him. He’s changed since you’ve last seen him—his beard is longer and whiter, and he seems to have grown shorter and stouter. His medical coat seems to have once been white but is now stained with what you sincerely hope is tomato soup. 
+
+He snaps on a pair of blue latex medical gloves and reaches for your face without so much as a preliminary greeting. You gently push him away and he seems startled, then registers your face and not just the gaping crater in it. He shoves his goggles up his face and into his disheveled snowy hair and removes his gloves, balling them together and tossing them into the trash in one smooth, practiced motion. 
+
+“Hello!” He greets you enthusiastically, pounding you energetically on the back in a way that you perceive is intended to appear affectionate. You reciprocate the motion, and a wailing noise seems to emanate from his head.
+
+“Shhhhh,” he quiets you. “You’ve saddened my hair carp!” 
+
+You apologize profusely and pat the small fish (which appears to be nesting in Dr. Kartoffel’s hair) on the head. It smiles happily, mollified. 
+
+“So!” he says, snapping on fresh gloves. “What brings you here after all these years? It’s been so long; I barely recognize you! Or maybe that’s just due to your lack of a nose… is that why you’re here?” As he speaks, he gently pats his hair carp. It grins at him, nestling deeper into his thinning, snowy hair.
+
+You nod and hold out your nose. He examines it and makes apologetic noises. 
+
+“I don’t really know if this is within my capabilities,” he says. “I don’t quite remember how to sew… but I do have some surgical thread you could use. You could do it yourself!” 
+
+You remind him that you don’t have a medical license.
+
+“… or you could create a false one. It’s less risky, but it might not look as good,” he continues. You are indecisive.
+
+If you decide to attempt surgery, turn to @sec-33.
+
+If you decide to create a false nose, turn to @sec-01.

@@ -11,10 +11,10 @@ When you arrive home, you sit down at your desk in your stiff office chair. You 
 
 You think about what your future could be and realize that your life has no meaning! You can’t think of anything you’ve done in the past five years that you would remember in ten more. You stand up abruptly, hands clasping onto your desk as if it is an anchor. You can’t go on like this! You must find some way to bring meaning to your life!
 
-If you decide to excel at puppetry, turn to section 46.
+If you decide to excel at puppetry, turn to @sec-46.
 
-If you get a job at a sewage treatment plant, turn to section 34.
+If you get a job at a sewage treatment plant, turn to @sec-34.
 
-If you devote your life to the masterful creation of exquisite candle scents, turn to section 36.
+If you devote your life to the masterful creation of exquisite candle scents, turn to @sec-36.
 
  

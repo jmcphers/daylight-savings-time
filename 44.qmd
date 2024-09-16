@@ -1,0 +1,13 @@
+# 44 {#sec-44}
+
+You decide that the best course of action is to adopt this puppet as your child. You become its parent and teach it basic skills, such as reading, writing, math, and soup. It is incredibly good at soup, and you spend many happy (and slightly over-full) hours enjoying the fruits of its labors. 
+
+You hope that it will be a child forever, but one day your puppet decides that it would like to leave home. It approaches you one morning as you’re making a small breakfast of nutmeal—mashed up, boiled nuts made into a sort of porridge (somehow it can digest food through its oaken ribs). “Esteemed guardian,” it begins, as it shuffles toward you on its bare wooden feet. You think about carving those feet, how odd it is to see them moving of their own accord, unattached to any strings. “I feel that it is time for me to leave the Cabin of Ultimate Introversion. There’s nothing for me to do in the middle of the woods. I know that you quit your desk job to move up here and become the greatest puppeteer the world has ever seen, but I’m not interested in that profession. I would like your permission to exit this isolated, mountainous region and move to a thickly settled urban region with an exemplary culinary program, to practice soup!” 
+
+You are shocked. The puppet has never before requested to leave, and you are totally unprepared for this. Of course, you’d like it to stay, but you also think it should have some freedom. You can’t figure out what decision to make, but you have to choose. You stare at the puppet, which is staring down at its shuffling feet.
+
+What should you do?
+
+If you let it go, turn to @sec-13
+
+If you keep it here, turn to @sec-22.

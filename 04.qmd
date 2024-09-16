@@ -8,4 +8,4 @@ After a minute of conversation that seems like an eternity to you, one of the sp
 
 You hastily half-fasten your shoes (not ideal, but better than earlier; it’s easier when you’re sitting down in an alien sphere spacecraft, oddly enough), quickly jump down to the hard asphalt of the road below you and begin the sprint to the event venue, your shoes clicking harshly against the pavement.
 
-Turn to section 32.
+Turn to @sec-32
