@@ -1,4 +1,4 @@
-# Section 28 {sec-28}
+# Section 28 {#sec-28}
 
 You decide to attempt to raft over the flowing magma in a raft made of floating rocks. It is a completely sane idea! 
 
