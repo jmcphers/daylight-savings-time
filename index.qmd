@@ -12,14 +12,8 @@ You slap together a mustard, mayonnaise, and pickle sandwich on pumpernickel & r
 
  You’re just about ready to step out the door when you realize that you’re not wearing shoes! You stare down at your bare toes as indecision grips you in an unpleasantly firm fist. Which shoes to wear‽ You stare down in paralysis at the two pairs of shoes on the rack. One is your comfortable, worn in, favorite shoes. The other is your dress shoes- they haven’t seen much use. 
 
-If you decide to wear the comfortable shoes, turn to @sec-14
+If you decide to wear the comfortable shoes, turn to @sec-14.
 
-If you decide to wear the dress shoes, turn to @sec-15
+If you decide to wear the dress shoes, turn to @sec-15.
 
-If you just give up and go barefoot, turn to section 66.
- 
-Wear the comfortable shoes - @sec-01
-
-Wear the dress shoes - @sec-01
-
-Give up and go barefoot - @sec-01
+If you just give up and go barefoot, turn to @sec-66.

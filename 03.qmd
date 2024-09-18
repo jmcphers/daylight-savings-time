@@ -1,4 +1,4 @@
-# 3 {#sec-03}
+# Section 3 {#sec-03}
 
 You decide to keep screaming. After all, it seems to be going pretty well for you so far.
 

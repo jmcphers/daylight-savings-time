@@ -1,6 +1,4 @@
----
-title: "13"
----
+# Section 13 {#sec-13}
 
 You decide that your puppet deserves a chance to head out into the world, away from the woods and your hermitage. You help it pack its things in a wooden suitcase that you carve for it and walk it down to the base of the mountain, a trek that takes days. It talks to you on the way about its soup aspirations. “I want to make the greatest soups in the world,” it tells you. “I wish to be famous for my soups. I shall attend soup school, to become better at soup.” You nod. 
 

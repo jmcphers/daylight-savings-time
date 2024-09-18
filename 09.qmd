@@ -1,6 +1,4 @@
----
-title: "9"
----
+# Section 9 {#sec-09}
 
 You decide to go explore the meadow. Its multitudinous clusters of tall grasses bow and sway as you push past them, further into the idyllic meadow. You lean down to smell one of the brilliantly colored turquoise flowers, and accidentally inhale an extremely large amount of pollen. You are allergic to pollen.
 

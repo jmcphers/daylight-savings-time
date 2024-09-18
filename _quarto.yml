@@ -80,8 +80,6 @@ format:
   html:
     theme: litera
     number-sections: false
-    crossref:
-      sec-prefix: "Chapter"
   pdf:
     documentclass: scrreprt
   epub:

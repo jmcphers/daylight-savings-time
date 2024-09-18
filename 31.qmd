@@ -1,4 +1,4 @@
-# 31 {#sec-31}
+# Section 31 {#sec-31}
 
 You decide to go explore the mountains. You set out on the slightly worn (you can tell that at least a few people have traversed its length in the past year, but not many. You wonder why the trail was created, and by whom. There don’t seem to be many, if any, inhabitants of this strange land you find yourself in, and anyways going up a mountain doesn’t seem to have many commercial benefits. Perhaps they just liked the view.) path. It’s easy walking at first, but after a mile or so you reach the mountain, and the climbing gets more difficult due to the incline. As you suspected, it turns around the mountain, cutting a path into the side. 
 

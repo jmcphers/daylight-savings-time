@@ -1,4 +1,4 @@
-# 2 {#sec-02}
+# Section 2 {#sec-02}
 
 You decide not to sit down in the seat. You don’t really want to, nor do you see any purpose to this act, so you remain standing. 
 

@@ -1,6 +1,4 @@
----
-title: "12"
----
+# Section 12 {#sec-12}
 
 It’s clear to you that perhaps you should not have messed with this man. He is in a complete rage! “DUCKY!” he roars, and attacks you with a flurry of fists. You step back. He continues to scream for his rubber duck. Clearly, he is extremely emotionally attached to it. 
 

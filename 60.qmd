@@ -1,4 +1,4 @@
-# 60 {#sec-60}
+# Section 60 {#sec-60}
 
 You decide to consult Dr. Smith. You don’t know him, but, based on your friend’s recommendation, it seems that he has a better understanding of surgery than your good friend Dr. Kartoffel, whose expertise is… dubious, at best.
 

@@ -1,6 +1,4 @@
----
-title: "8"
----
+# Section 8 {#sec-08}
 
 You decide to jump off the cliff but leave the skull behind. You don’t want it around.
 

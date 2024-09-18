@@ -1,10 +1,8 @@
----
-title: "10"
----
+# Section 10 {#sec-10}
 
 At first your puppet is sad, but soon its sadness and disappointment ferments and turns to seething, bitter hatred and a need for revenge. It’s desperate to make you pay for your wrongdoings. Its hunger for vengeance fuels it. You are oblivious to its anger and think nothing of its temper, which seems to be growing shorter by the day, and from time to time you catch it in your woodshed with a whetstone, scraping your wood felling axe to sharp perfection and then standing back to smile and to admire its work, and think of its future… but you assume that it only aims to ease your woodcutting and think nothing of it. 
 
-Sometimes, in the night, you hear the distant sounds of skritch, skritch, skritchhhhh, and know that the puppet is back in your shed… Yes, it pretends by day to still be your proper, obedient puppet servant, but by night, it plans, it schemes, it prepares…
+Sometimes, in the night, you hear the distant sounds of *skritch, skritch, skritchhhhh,* and know that the puppet is back in your shed… Yes, it pretends by day to still be your proper, obedient puppet servant, but by night, it plans, it schemes, it prepares…
 
 You wake up again in the middle of the night. There are no skritchings this night, only the still silence of an empty house. Or is it? As your eyes adjust to the darkness you look around you to find the puppet looming over you, but this time you don’t sense that this is an innocent new being, looking to you as its parent. This thing, you can perceive, is bent on cold-blooded murder. Or cold-sapped? You catch its arm. “Don’t do this,” you warn. It seems to have no effect on the puppet. Its face is set with determination and resolve. It lifts its weapon, a strong, heavy axe from your woodcarving shack…
 
