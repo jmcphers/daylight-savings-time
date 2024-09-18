@@ -57,9 +57,9 @@ It is a giant octopus, and you are a relatively small human, completely at its m
 
 It’s an eclectic selection of items, but you should probably appease the octopus and choose one. The octopus seems eager to please and assist now, but there’s no telling how long this attitude will last.
 
-If you ask to be turned into a washcloth, turn to section 67.
+If you ask to be turned into a washcloth, turn to @sec-67.
 
-If you ask to be turned into an onion, turn to section 65.
+If you ask to be turned into an onion, turn to @sec-65.
 
-If you ask to be turned into a platypus, turn to section 61.
+If you ask to be turned into a platypus, turn to @sec-61.
 

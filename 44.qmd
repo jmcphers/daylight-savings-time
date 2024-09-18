@@ -8,6 +8,6 @@ You are shocked. The puppet has never before requested to leave, and you are tot
 
 What should you do?
 
-If you let it go, turn to @sec-13
+If you let it go, turn to @sec-13.
 
 If you keep it here, turn to @sec-22.
