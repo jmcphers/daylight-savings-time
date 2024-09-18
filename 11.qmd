@@ -12,7 +12,7 @@ Do you keep screaming and try to communicate with them, or stop, afraid of sayin
 
 The aliens continue to scream.
 
-If you keep screaming, turn to @sec-03
+If you keep screaming, turn to @sec-03.
 
 If you stop, turn to section @sec-58.
  

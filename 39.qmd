@@ -16,4 +16,4 @@ He clears his throat.
 
 Mr. Yorke defends you brilliantly at the trial, providing a perfect defense for each of the prosecution’s cutting attacks. You are cleared of all charges and are extremely grateful. Clearing his throat, he hands you a small envelope.
 
-Turn to section 43.
+Turn to @sec-43.

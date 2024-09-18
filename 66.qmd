@@ -1,0 +1,26 @@
+# 66 {#sec-66}
+
+The decision is just too hard. You don’t put any shoes on at all and dash out the door in a hurry to get to that very important event that commences imminently!
+
+You dash out the door. It’s a miserable downpour outside, and your bare feet splash in the fast-forming puddles as you sprint down the streets that lie between your home and the event venue. Fast as you’re going, you barely notice as your foot lands in the middle of a particularly big puddle. But as you dash across it, spraying water everywhere, the end of the street doesn’t seem to be getting any closer. Curious. 
+
+You pump your legs harder, but still don’t seem to be going anywhere! You look down and your feet have sunk into the puddle completely. It must be deeper than you thought, you muse, and you keep going, or trying to. You are soon calf-deep in the puddle and still going nowhere! Then, suddenly, you’re no longer in the middle of an empty, miserably rainy street—you’re standing in the middle of a beautiful meadow, drenched in golden sunlight. You blink in the brightness of the giant glowing sky orb, which in its familiar fiery glow indicates to you that you are still on Earth, or at least somewhere quite similar. 
+
+You survey your strange surroundings. They’re not strange in themselves, but in the fact that they are not a miserable stretch of puddly pavement.
+
+In front of you is a large meadow, more of a prairie really, with tall grasses specked with flowers as far as the eye can see. There are no trees, lakes, or anything else that you can see to break the monotony of the sea of plant life. You wonder what things might be hiding behind the tall, swaying grasses that grow in clumps and clusters throughout the prairie. The air smells sweet and light, the refreshing, mineral odor of petrichor having vanished. 
+
+To the left, and far above you, lies a set of ominous mountains, tall and craggy, surrounded by coniferous forest. They rise above the clouds and are made of a dark stone with a faint marbled texture. The air around them seems darker, and the area is flooded with storm clouds. They seem difficult to climb, but there’s a trail, starting near you, that leads to the base of the middle mountain, which is nearest to you, (still, not ‘near’ by anyone’s standards) before disappearing in a swoop around the base, presumably to twist about the mountain so as to give the climber a more reasonable incline than the one that would take them straight up the rather acutely angled mountain. However, due to the position of your view and the angle of the mountain relative to you, you can’t really tell where the trail goes. 
+
+Behind you there’s a knoll, covered in grass except for the entrance to a large cave that almost appears to have been clawed into its side. You can only see for a few feet into the chamber until your view is swallowed by darkness. There are scattered stalagmites and stalactites, though you can’t remember which is which, and pools of water on the floor. Every so often, a drop of water drops from a stalactite and makes an oddly loud, echoing, plunking noise as it falls into the puddle beneath, like someone dropping a metal water bottle in a crowded, but silent, room. 
+
+You look around you, searching the landscape once more, looking for a way out of this land, but There are none that you can see.
+
+There’s no conveniently placed, glowing portal beside you, ready to take you home to your drenched stretch of pavement, no magical pothole that would whisk you back to where you were, no mysterious wooden doorway, floating in the air, which opens back onto familiarity. You’re on your own, but now that you’re here, you might as well explore. Doesn’t look like you have much else to do. But where should you go?
+
+If you explore the meadow, turn to @sec-09.
+
+If you explore the mountain, turn to @sec-31.
+
+If you explore the cave, turn to @sec-45.
+ 

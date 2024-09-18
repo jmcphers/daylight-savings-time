@@ -8,5 +8,5 @@ The puppet toils for years doing all of your jobs while you sit in a chair it bu
 
 It continues to chop the wood, and carve the wood, and burn the wood for your fires, always obedient, but inside it, something stirs…
 
-Turn to section 10.
+Turn to @sec-10.
 

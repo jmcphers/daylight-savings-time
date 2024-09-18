@@ -24,6 +24,6 @@ As an expert in candles, you want to further your skills, so you check out a boo
 
 You think up two ideas for a new and exciting candle: a candle that makes everyone within a five-foot radius of it while it’s burning immune to the common cold, or one that damages the noses of everyone within a twenty-foot radius, to the point that their sense of smell is completely gone. Which to make?
 
-If you make people immune to colds, turn to section 50.
+If you make people immune to colds, turn to @sec-50.
 
 If you destroy people’s sense of smell, turn to @sec-24

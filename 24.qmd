@@ -22,7 +22,7 @@ Sighing, you head inside, resigned to life without a nose. You pass by the kitch
 
 You should probably see a doctor about this, of whom you know two—Doctor Kartoffel, whom you’ve known for years, and Dr Smith, whom a friend recommended to you.
 
-If you consult Dr. Smith, turn to section 60.
+If you consult Dr. Smith, turn to @sec-60.
 
-If you consult Dr. Kartoffel, turn to section 41.
+If you consult Dr. Kartoffel, turn to @sec-41.
  

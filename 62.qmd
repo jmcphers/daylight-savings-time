@@ -1,0 +1,19 @@
+# 62 {#sec-62}
+
+You decide to keep going. You really don’t care about the glow in the sewer, and you’re probably going to be late to that extremely important event! 
+
+You travel down the pavement at a hopping, skipping gait as you attempt to simultaneously move through space in an orderly fashion and fasten your finicky dress shoes. You are failing most spectacularly at both of these objectives and almost lose your balance as you see something in the sky. 
+
+Clearly, it’s a spaceship, but it’s not one of your run-of-the-mill flying saucers. It’s an amateurish approximation of a rectangular prism and is painted almost 30 different shades of the same dull grey color, making it seem as if it is from an old movie where they needed to approximate a spaceship but only had an old RV, some spare parts and a bunch of grey spray paint and thought, hey, let’s go for it, what could go wrong? 
+
+Clearly a lot; one of the cylinders you suspect is—or was—one of the engines is hanging off by a wire, and that wire is sparking alarmingly. The whole ship is hanging rather haphazardly in the air, causing the light to shimmer and wave underneath it. 
+
+Almost every free surface of the vehicle (those not otherwise occupied in steering it, keeping it aloft, or other essential tasks) is covered in neatly wound and tied wires. They cover the vehicle in straight lines and looping whorls, all keeping with the same greyscale theme as the rest of the vessel. The windshield is a clouded piece of glass which can’t really be in order with the traffic safety laws around this area. Idly you wonder about whether they have traffic safety laws, wherever this ship comes from. 
+
+There is a metal circular port on the bottom of the ship. It looks like it could open, with a swirling circular design carved into it.
+
+You stand there silently, frozen in your tracks. 
+
+If you try to run away from the spaceship, go to @sec-05.
+
+If you stand there frozen and hope it doesn’t notice you, go to @sec-16.

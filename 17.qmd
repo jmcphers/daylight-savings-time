@@ -20,7 +20,7 @@ Jake learned to carry a mechanical pencil at all times, and never to have any ex
 
 What if this odd, duck-obsessed man isn’t as strange as he seems, but is really your old acquaintance Jake, driven mad by vengeance and with some evil plot in store for you? Has he come back to exact revenge? Can you trust the man in plaid, or should you back out?
 
-If you keep your promise, turn to section 30.
+If you keep your promise, turn to @sec-30.
 
-If you back out, turn to section 38.
+If you back out, turn to @sec-38.
  

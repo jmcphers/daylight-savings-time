@@ -12,6 +12,6 @@ As they speak, you notice a chair-cushion-seat-thing (Cushion-chair-seat-thing? 
 
 Finally, the spheres de-congregate and one of them tilts itself over to the something on the floor, indicating that it wants you to sit there. What should you do?
 
-If you sit down, turn to section 56.
+If you sit down, turn to @sec-56.
 
 If you don’t sit down, turn to @sec-02

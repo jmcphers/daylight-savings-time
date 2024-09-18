@@ -72,8 +72,8 @@ Silence.
 
 The King decided that one of his best large piles of gold, as well as a prized book, should be hidden. Actually, it has long been my goal to find one of these treasures. Would you assist me? You may choose which.”
 
-If you decide to go after the book, turn to section 52.
+If you decide to go after the book, turn to @sec-52.
 
-If you hunt for the gold, turn to section 55.
+If you hunt for the gold, turn to @sec-55.
 
  

@@ -8,5 +8,5 @@ You’re curious, but you really have to get to your important event. What shoul
 
 If you examine the sewer, turn to @sec-21.
 
-If you continue to the event, turn to section 62.
+If you continue to the event, turn to @sec-62.
  

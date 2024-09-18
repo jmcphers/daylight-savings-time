@@ -1,0 +1,52 @@
+# 61 {#sec-61}
+
+You decide to be transformed into a platypus. 
+
+“Make me a platypus!” you say to the octopus.
+
+“Certainly,” it says, and waves an enormous tentacle towards you, sending a ray of light beaming over your face. “Bzzzt!” it says. “You’re a platypus!”
+
+You look down to find that you are indeed a platypus! Instead of the hands and feet you’ve foolishly grown accustomed to, you now have large flippers. In lieu of a mouth, a ducklike bill has sprouted from your face. Soft, dark brown fur covers your body. 
+
+Waddling around to the stone ladder leading up to the little doorway, you find that you cannot climb very well with your flippers, slipping when attempting to grasp a rung.
+
+You ask the octopus for help and it happily complies, picking you up with one huge tentacle and lifting you up to the doorway. You thank it and walk out of the cavern, blinking and indignant at the sudden brightness of the sun.
+
+The field around you is tall and verdant, the grass waving in the gentle wind. It ruffles your fur as you waddle slowly along a faint trail.
+
+
+You follow the path until dusk until, thirsty and exhausted and almost wishing you were still human, you arrive at a stream and wade in, taking deep gulps of the cold, clear water.
+
+The water is refreshing and you wade in deeper until you’re completely submerged. The stream isn’t very deep and you can see easily to the bottom, which is just a bunch of rocks and isn’t really that interesting. 
+
+A tiny, iridescent fish darts suddenly past you, terror in its bulging eye. You pursue it for some feet, catching up to it in a matter of minutes and holding it in your large, flat bill. 
+
+Swimming rapidly upwards with the doomed creature in your mouth, you break the surface with a small splash that sends ripples through the stream. You waddle back onto the shore to enjoy your meal, the fish’s small, delicate bones crunching deliciously in your mouth.
+
+After eating, you start to lie down for a nap in the shade of the trees surrounding the stream when something small and brown appears in the grass on the other side of the stream. Peering out, it locks eyes with you for a fraction of a second and looks away, startled, as if not expecting your presence. Intrigued, you cross the stream and follow it. 
+
+It runs into a densely forested area and you pursue it as fast as you can across the sun-dappled ground coated with pine needles that muffle the sound of your footsteps. The creature slows when the path it’s been taking through the woods narrows considerably, and you realize, now that you have a clear view of it, that it’s a fellow platypus! It's nearly identical to yourself except that its bill is a different color.
+
+The other platypus furtively glances around to see if anyone’s there, not seeing you, and waddles through a bush, barely brushing against the branches and leaves. You follow suit.
+
+Through the bush are dozens upon dozens of platypuses, splashing around in a huge lake that the reflects the cloud-streaked evening sky above. As you stand there, the heads of all the platypuses simultaneously turn towards you. It’s rather unsettling.
+
+An aged platypus waddles toward you. Her brown fur is now mostly grey and her eyes are wise and world-weary. Traveler, I am Agreeable Gray, leader of this platypus enclave, she says. Who might you be? 
+
+You tell her your name and how you came to be a platypus. Though visibly concerned, Agreeable Gray nods along as you explain your journey through the portal, the caves, the magma river, and finally your transformation by the giant octopus. 
+
+In that case, she says, you’d be welcome to stay here with us. Platypus fur has, unfortunately, become a precious commodity as of late. Hunters and their infernal ilk have become an increasing danger and nuisance. My second in command, Urbane Bronze—Urbane Bronze waves his flipper in greeting—will give you a tour of our home. We do hope that this place lasts longer than the last one, which we had to leave a few months ago when it was stumbled upon by hunters hoping to turn us into fashionable hats, coats, and the like. We lost many good platypuses that day, but ultimately most of us escaped with our lives. This is a particularly good spot—I’d hate to lose it.
+
+Urbane Bronze leads you down a well-beaten path around the lake. It’s a rather small lake, and the platypuses have settled all around it, with the lake being the main shared space. Urbane Bronze shows you around, but there’s not much to show, the main two areas being sleeping arrangements and the lake.
+
+Urbane Bronze also introduces you to some of the community’s most important people, like Illusive Green, who found this spot for the platypuses to live, and Evergreen Fog, who doesn’t seem to have done anything special but whom everyone agrees is an extremely crucial member of society, without whom it would certainly collapse. 
+
+As Urbane Bronze is showing you Agreeable Gray’s patch of grass so that you may avoid it out of respect for her, a horn sounds and all the platypuses start to jump around and panic!
+
+Agreeable Gray comes up to you. *Those are hunters,* she says. *Olde World Gold, our scout, has seen them coming from her hidden place among the trees and raised the alarm. We should probably run away like we have the last fourteen times they found us, but we could stay and fight. Running away guarantees that at least some of us will live, but we’ve never tried to overcome the hunters, and there are enough of us that we might be able to win against them by sheer force.*
+
+*You’re new here. What do you think we should do? I trust your judgement.*
+
+If you try to run away from the hunters and find a new place for the platypuses to live, turn to @sec-53.
+
+If you fight against the hunters, turn to @sec-37.
