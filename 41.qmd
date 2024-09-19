@@ -9,11 +9,11 @@ He snaps on a pair of blue latex medical gloves and reaches for your face withou
 
 “Hello!” He greets you enthusiastically, pounding you energetically on the back in a way that you perceive is intended to appear affectionate. You reciprocate the motion, and a wailing noise seems to emanate from his head.
 
-“Shhhhh,” he quiets you. “You’ve saddened my hair carp!” 
+“Shhhhh,” he quiets you. “You’ve saddened my [hair carp](hair-carp.qmd)!” 
 
 You apologize profusely and pat the small fish (which appears to be nesting in Dr. Kartoffel’s hair) on the head. It smiles happily, mollified. 
 
-“So!” he says, snapping on fresh gloves. “What brings you here after all these years? It’s been so long; I barely recognize you! Or maybe that’s just due to your lack of a nose… is that why you’re here?” As he speaks, he gently pats his hair carp. It grins at him, nestling deeper into his thinning, snowy hair.
+“So!” he says, snapping on fresh gloves. “What brings you here after all these years? It’s been so long; I barely recognize you! Or maybe that’s just due to your lack of a nose… is that why you’re here?” As he speaks, he gently pats his [hair carp](hair-carp.qmd). It grins at him, nestling deeper into his thinning, snowy hair.
 
 You nod and hold out your nose. He examines it and makes apologetic noises. 
 

@@ -4,7 +4,7 @@ project:
 book:
   title: "Daylight Savings Time"
   author: "Beatrice McPherson"
-  date: "9/14/2024"
+  date: "9/18/2024"
   chapters:
     - index.qmd
     - 01.qmd
@@ -76,6 +76,7 @@ book:
     - hair-carp.qmd
   sidebar: false
   navbar: false
+  page-navigation: false
 
 format:
   html:
