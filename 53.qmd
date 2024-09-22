@@ -22,4 +22,4 @@ You run over to Urbane Bronze. He’s still breathing, but it’s shallow. Looki
 
 You lunge away but feel a sharp pain blossom between your ribs, and the world goes dark. 
 
-x
+![&nbsp;](images/x.svg)

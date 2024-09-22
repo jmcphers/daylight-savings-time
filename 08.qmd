@@ -33,5 +33,5 @@ When you wake up, there’s a large bear looming  over you. You stare at it. It 
 
 As you back away, the bear lunges at you. You try to run, but your injured ankle and bare feet causes you to trip and fall to the ground. The bear lands on top of you and slices your neck open with its sharp claws, giving you, at least, a quick death.
 
-x
+![&nbsp;](images/x.svg)
  

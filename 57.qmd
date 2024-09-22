@@ -44,5 +44,5 @@ After an extended period of time filled with endless journeying, (you’ve stopp
 
 The spacecraft appears around the horizon, and you understand, now. You enter with the other spheres. You know what you have to do.
 
-x
+![&nbsp;](images/x.svg)
 

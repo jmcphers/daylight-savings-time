@@ -44,4 +44,4 @@ Thinking it over, you see no reason to refuse.
 
 You rule over the puddle for many prosperous years. 
 
-x
+![&nbsp;](images/x.svg)

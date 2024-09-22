@@ -12,5 +12,5 @@ The car gets even closer and the scientist in the sedan suddenly looks up from t
 
 The car swerves and hastily brakes, but it’s too late…
 
-x
+![&nbsp;](images/x.svg)
  

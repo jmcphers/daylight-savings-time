@@ -10,4 +10,4 @@ You almost feel ready to throw the skull off the side of the mountain, but you d
 
 Unfortunately for you, the rain comes often enough that you are able to stay alive, and you live a long, bored life atop the mountain at the End of the World.
 
-x
+![&nbsp;](images/x.svg)

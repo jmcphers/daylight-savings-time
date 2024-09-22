@@ -14,4 +14,4 @@ The craft begins to spin around, and you clutch the edge of the ship as hard as 
 
 You plunge beneath the waves in a stream of bubbles and desperately kick your legs up (which way is up? You can barely tell anymore) and make scooping motions with your arms, but your attempts are futile.
 
-x
+![&nbsp;](images/x.svg)

@@ -108,4 +108,4 @@ The markings on it are illegible, at least at first. You stare at it, trying to 
 
 “Verily,” you say. 
 
-x
+![&nbsp;](images/x.svg)

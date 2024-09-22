@@ -12,4 +12,4 @@ The Bird drops you into its nest, landing beside you and severing your head from
 
 Your body is eaten by the chicks, who grow up to be full-fledged, healthy Terror Birds on a nutritious diet of travelers like you. 
 
-x
+![&nbsp;](images/x.svg)

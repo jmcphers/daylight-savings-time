@@ -8,4 +8,4 @@ Suddenly, the spacecraft accelerates! You weren’t expecting this.
 
 The sudden acceleration slams you headfirst into the wall. You die on impact, your neck broken and your skull fractured.
 
-x
+![&nbsp;](images/x.svg)

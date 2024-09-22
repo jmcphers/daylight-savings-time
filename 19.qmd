@@ -30,5 +30,5 @@ The spaceship seems to get bigger, but you’re not sure if this is because you�
 
 Suddenly, the ground tilts and bends, rushing up to meet you as you crash to the floor, sending swirling clouds of grey dust spiraling around your body. It’s too late.
 
-x
+![&nbsp;](images/x.svg)
  

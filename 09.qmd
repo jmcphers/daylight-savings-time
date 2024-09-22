@@ -10,4 +10,4 @@ A bee buzzes past you, landing on your nose. “Hello,” you wheeze out. The be
 
 Soon, more bees surround you, landing all over your body in a buzzing, yellow-and-black mass. Thousands of bees swarm over your thrashing, pain-wracked body, jabbing you with fierce, venomous stingers. You’ve accumulated so many stings that you can barely feel the pain anymore. Your vision starts to tunnel, and you stare up at the blue, cloudless sky. This isn’t such a bad place to die, you think.
 
-x
+![&nbsp;](images/x.svg)
