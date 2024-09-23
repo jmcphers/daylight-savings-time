@@ -41,8 +41,7 @@ Horatio then directs you to a different trail, one he says leads to the lake. Ca
 
 Horatio keeps up a steady stream of chatter as you tread the pine needle-coated forest path. He speaks of treasure, parakeets, what the problem is with soup and how to fix it, his favorite soup, lamenting that he can’t eat soup, wondering what the biggest soup is, is the ocean soup because it is salt and water and fish, which really is soup but most of the fish are still alive—but not all of them, because surely some fish die in the ocean but really the soup wouldn’t taste very good because of all the salt, ect, ect. All the trails seem the same—dense forest and an ovetcast sky. For several days you hike endlessly.
 
-
-
+![&nbsp;](images/compass.svg){width=75}
 
 Finally, you arrive at the lake. It’s calm and shimmering, near-black, and reflecting the cloudy grey sky above it. “The gold is…here?” you ask Horatio. 
 

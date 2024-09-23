@@ -27,7 +27,7 @@ Groaning, you disentangle yourself from the leaves and assess the damage the fal
 
 After a few minutes of painful searching, you find a small cave that looks like it’ll do the job. It’s dark and smells rather odd, but you could certainly rest there for the night. You walk in and a cloud of bats, startled, flies out at you. You fall on the ground and try not to touch them. When the bats have passed, you venture further into the cave and lie down to rest.
 
-
+![&nbsp;](images/compass.svg){width=75}
 
 When you wake up, there’s a large bear looming  over you. You stare at it. It stares at you. The staring is mutual. The bear begins to make loud growling noises and you slowly get up from the ground. “Nice bear,” you say. “Niiiiiiiiiiiiiice bear.” You back away slowly. It must have been the bear’s cave that you slept in last night, and clearly you were not welcome! 
 

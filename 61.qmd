@@ -14,6 +14,7 @@ You ask the octopus for help and it happily complies, picking you up with one hu
 
 The field around you is tall and verdant, the grass waving in the gentle wind. It ruffles your fur as you waddle slowly along a faint trail.
 
+![&nbsp;](images/compass.svg){width=75}
 
 You follow the path until dusk until, thirsty and exhausted and almost wishing you were still human, you arrive at a stream and wade in, taking deep gulps of the cold, clear water.
 
